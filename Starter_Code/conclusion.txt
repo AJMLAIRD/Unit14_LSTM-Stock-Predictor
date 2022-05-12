@@ -1,0 +1,13 @@
+# Determine which model had the lowest loss. (8 points)
+
+Closing price had the lowest loss. 
+
+
+# Determine which model tracks the actual values best over time. (8 points)
+
+Closing price tracks better than FNG. 
+
+
+# Determine the appropriate Window Size for the model. (8 points)
+
+Window size 1 
